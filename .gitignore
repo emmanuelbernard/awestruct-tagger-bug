@@ -1,0 +1,14 @@
+#Ignored files
+
+#Rake
+.bundle
+_bin/forrake
+
+#OS
+.DS_Store
+
+#Awestruct
+/.sass-cache
+/_site
+/_tmp
+/.awestruct
